@@ -1,0 +1,11 @@
+pip install --upgrade ipython
+pip install pyqtgraph
+
+Right click on this result marked as Red, and open file location.
+
+Then look for sqlalchemy/util/compat.py file and open it. And search time.clock using ctrl+f and replace it with time.time
+
+1.what is your name
+2. my name is syed. what is your name
+3. in which city you live
+4. what language do you know
